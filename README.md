@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there ![image]([https://github.com/user-attachments/assets/9303b31b-0d38-45a0-851c-b7af17cf4dd8](https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif))
+
 
 <!--
 **samalsubrat/samalsubrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
